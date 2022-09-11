@@ -1,0 +1,15 @@
+C:\Users\Николай\Desktop\С#\object19\bin\Debug\net6.0\object19.exe
+C:\Users\Николай\Desktop\С#\object19\bin\Debug\net6.0\object19.deps.json
+C:\Users\Николай\Desktop\С#\object19\bin\Debug\net6.0\object19.runtimeconfig.json
+C:\Users\Николай\Desktop\С#\object19\bin\Debug\net6.0\object19.dll
+C:\Users\Николай\Desktop\С#\object19\bin\Debug\net6.0\object19.pdb
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.AssemblyInfo.cs
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.dll
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\refint\object19.dll
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.pdb
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\object19.genruntimeconfig.cache
+C:\Users\Николай\Desktop\С#\object19\obj\Debug\net6.0\ref\object19.dll
